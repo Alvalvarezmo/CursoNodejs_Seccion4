@@ -7,7 +7,7 @@ Si el limite no se de por comando el valor sera 10
 
 
 Ejecutar este comando
-...
 
+```
 npm install
-...
+```
