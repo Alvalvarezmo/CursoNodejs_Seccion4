@@ -1,0 +1,16 @@
+{
+  "name": "03_bases_de_node",
+  "version": "1.0.0",
+  "description": "Paquete creado como ejemplo del curso",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Alvarez Morales",
+  "license": "ISC"
+}
