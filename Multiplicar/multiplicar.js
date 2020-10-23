@@ -1,7 +1,6 @@
 //Paquetes
 const fs = require('fs'); //libreria File System
 
-
 //Funciones
 //..crear archivo con la tabal de multiplcar
 let crearArchivo = (base, limite = 10) => {
